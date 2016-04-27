@@ -20,7 +20,7 @@
 		style="padding-left: 8%; padding-right: 8%; padding-top: 1%; padding-bottom: 5%; color: white;">
 		<div id="header" align="center">
 			<h1>
-				<b>✩ HỆ THỐNG HỎI ĐÁP ĐỊA LÝ ✩ </b>
+				<b>✩ HỆ THỐNG HỎI ĐÁP ✩ </b>
 			</h1>
 			<img id="idLine" align="middle" alt="line" src="Images/line2.png"
 				style="width: 100%;">
